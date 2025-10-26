@@ -1,0 +1,12 @@
+IMPORTANT: Save the KLH logo image as "klh-logo.png" in this directory.
+
+The logo should be the one provided by the user (KLH University logo with gear icon and colorful text).
+
+File name: klh-logo.png
+Location: client/public/images/klh-logo.png
+
+Once placed, the logo will automatically appear in:
+- Navbar
+- Login page
+- Register page
+- All other locations where "K" icon was displayed
